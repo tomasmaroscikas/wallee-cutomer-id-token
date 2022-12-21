@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: walleeCutomerIdToken
+netty:
+  default:
+    allocator:
+      max-order: 3
